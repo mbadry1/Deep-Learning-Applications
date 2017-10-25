@@ -1,0 +1,24 @@
+
+
+
+
+--Facebook face reco.
+	--DeepFace
+
+--Cloudsight
+
+--Clarifai
+
+--Deep speech
+
+--AlphaGo
+
+--Openface
+
+--MetaMind Twitter
+
+--IBM watson
+
+--3D Face Reconstruction from a Single Image
+	http://cvl-demos.cs.nott.ac.uk/vrn/index.php
+	

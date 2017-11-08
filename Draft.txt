@@ -22,3 +22,18 @@
 --3D Face Reconstruction from a Single Image
 	http://cvl-demos.cs.nott.ac.uk/vrn/index.php
 	
+--Authentication now comes with a wave of your hand 
+	--https://techcrunch.com/2017/10/23/authentication-now-comes-with-a-wave-of-your-hand/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29
+	
+--Baidu autonomous cars
+
+--Amazon Echo, Echo Dot, Alexa
+
+--LettuceBot
+
+--Athelas
+
+--AIVA
+
+--Apple watchOS 4, HomePod speaker
+
